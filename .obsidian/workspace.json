@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solve/head-dump.md",
+                "file": "Solve/DISKO 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "head-dump"
+              "title": "DISKO 1"
             }
           }
         ]
@@ -176,29 +176,31 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "fb288b26bbea5bae",
   "lastOpenFiles": [
+    "README.md",
     "Solve/DISKO 1.md",
+    "Solve/head-dump.md",
     "Solve/n0s4n1ty 1.md",
     "Solve/PIE TIME.md",
     "Solve/SSTI1.md",
-    "Solve/head-dump.md",
-    "Pasted image 20250528151631.png",
-    "Pasted image 20250528151432.png",
-    "Screenshot 2025-05-28 at 14.57.08.png",
-    "Screenshot 2025-05-28 at 14.55.13.png",
-    "Screenshot 2025-05-28 at 14.50.57.png",
-    "Screenshot 2025-05-28 at 14.50.29.png",
-    "Screenshot 2025-05-28 at 14.49.32.png",
-    "Pasted image 20250528142915.png",
-    "README.md",
+    "assets/Pasted image 20250528151631.png",
+    "assets/Screenshot 2025-05-28 at 14.57.08.png",
+    "assets",
+    "assets/Pasted image 20250528151432.png",
+    "assets/Screenshot 2025-05-28 at 14.55.13.png",
+    "assets/Screenshot 2025-05-28 at 14.50.57.png",
+    "assets/Screenshot 2025-05-28 at 14.50.29.png",
+    "assets/Screenshot 2025-05-28 at 14.49.32.png",
+    "assets/Pasted image 20250528142915.png",
     "Solve",
     "Untitled.canvas",
-    "Pasted image 20250528091452.png",
-    "Screenshot 2025-05-28 at 9.04.16.png",
+    "assets/Pasted image 20250528091452.png",
+    "assets/Screenshot 2025-05-28 at 9.04.16.png",
     "Gym Exclusive/Forensics/Untitled.md",
     "2025",
     "2025.md",
