@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 410.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa7803e66ac19976",
+  "active": "fb288b26bbea5bae",
   "lastOpenFiles": [
     "Solve/SSTI1.md",
     "Solve/PIE TIME.md",
