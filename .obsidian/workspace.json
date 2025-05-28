@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "cda8f5607ac8df9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8a3751c6e6abcb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47418b1eef22d4af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solve/DISKO 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DISKO 1"
+            }
+          },
+          {
+            "id": "09909a6c19ff2e11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solve/DISKO 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DISKO 1"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84b64312589955cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "46b3a6c9cc01630d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5aef4db595487032",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "92df184cc0487dd1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bd60de21975e9299",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "64e71a9f25c37abe",
+    "type": "split",
+    "children": [
+      {
+        "id": "7addba3f60276b0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3226c9cfce15d56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Solve/DISKO 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DISKO 1"
+            }
+          },
+          {
+            "id": "49218785ed3c259c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b2547953b39b7c42",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c15a16dec77781ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Solve/DISKO 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DISKO 1"
+            }
+          },
+          {
+            "id": "aa7803e66ac19976",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "aa7803e66ac19976",
+  "lastOpenFiles": [
+    "Solve/PIE TIME.md",
+    "Solve/DISKO 1.md",
+    "Solve",
+    "Solve/SSTI1.md",
+    "Untitled.canvas",
+    "Pasted image 20250528091452.png",
+    "Screenshot 2025-05-28 at 9.04.16.png",
+    "Pasted image 20250528090640.png",
+    "Pasted image 20250528090024.png",
+    "Pasted image 20250528090153.png",
+    "Screenshot 2025-05-28 at 9.03.10.png",
+    "Screenshot 2025-05-28 at 9.03.23.png",
+    "Gym Exclusive/Forensics/Untitled.md",
+    "Screenshot 2025-05-28 at 9.01.47.png",
+    "Pasted image 20250528090009.png",
+    "2025",
+    "2025.md",
+    "Gym Exclusive",
+    "2025/Web Exploitation",
+    "Gym Exclusive/Forensics"
+  ]
+}
