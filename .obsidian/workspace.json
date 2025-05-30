@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solve/hashcrack.md",
+                "file": "Solve/DISKO 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hashcrack"
+              "title": "DISKO 1"
             }
           }
         ]
@@ -183,12 +183,12 @@
   },
   "active": "fb288b26bbea5bae",
   "lastOpenFiles": [
-    "assets/Pasted image 20250528155203.png",
-    "README.md",
-    "Solve/hashcrack.md",
-    "Solve/DISKO 1.md",
     "Solve/head-dump.md",
     "Solve/n0s4n1ty 1.md",
+    "Solve/hashcrack.md",
+    "assets/Pasted image 20250528155203.png",
+    "README.md",
+    "Solve/DISKO 1.md",
     "Solve/PIE TIME.md",
     "Solve/SSTI1.md",
     "assets/Pasted image 20250528151631.png",
@@ -203,7 +203,6 @@
     "Solve",
     "Untitled.canvas",
     "assets/Pasted image 20250528091452.png",
-    "assets/Screenshot 2025-05-28 at 9.04.16.png",
     "Gym Exclusive/Forensics/Untitled.md",
     "2025",
     "2025.md",

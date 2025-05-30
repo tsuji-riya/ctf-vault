@@ -4,3 +4,4 @@ hashをcrackするようです。
 ![[Pasted image 20250528155203.png]]
 
 # How to Capture the flag
+出てきたhashをmd5, sha1, sha256をdecryptしてくれるサイトに投げればおk!
